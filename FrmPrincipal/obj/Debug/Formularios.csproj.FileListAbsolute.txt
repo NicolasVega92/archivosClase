@@ -1,0 +1,15 @@
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\bin\Debug\Entities.dll
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\bin\Debug\Entities.pdb
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\obj\Debug\FrmPrincipal.FrmCargaMensaje.resources
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\obj\Debug\FrmPrincipal.FrmMenu.resources
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+C:\Users\Nico\source\repos\Archivos\FrmPrincipal\obj\Debug\FrmPrincipal.FrmNuevoMensaje.resources
